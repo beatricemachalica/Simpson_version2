@@ -3,4 +3,4 @@
 Dublication exercise from a model (PDF document).
 Languages used : HTML CSS (mainly) JavaScript.
 Teachers : Stéphane SMAIL and Gilles MUESS.
-This work has been "pused" online with Git.
+This work has been "pushed" online with Git.
